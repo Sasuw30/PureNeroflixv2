@@ -1,6 +1,7 @@
 {
-  "id": 1,
+  "id": 2,
   "title": "Welcome to PureNeroFlix!",
   "message": "Thank you for using PureNeroFlix. Stay tuned for updates!",
+  "image": "https://raw.githubusercontent.com/Sasuw30/PureNeroflixv2/main/announcement.png",
   "show": true
 }
