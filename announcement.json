@@ -1,7 +1,7 @@
 {
   "id": 5,
-  "title": "NeroFlix v1.4.3 is Now Live! 🎉",
-  "message": "Welcome to NeroFlix v1.4.3!\n\nWhat's New?\n\n📺 Redesigned IPTV with a cleaner and more intuitive interface\n🎬 Improved movie player for smoother playback and better performance\n📻 Added Radio category so you can enjoy your favorite stations in one app\n⚡ General optimizations and bug fixes for improved stability and responsiveness\n\nMore exciting features and improvements are already in development. Keep your app updated so you don't miss future releases!\n\n📌 Compatibility may vary depending on your device. For the best experience, we recommend using an updated Android version and TV boxes or TV sticks with better hardware specifications.\n\n❤️ Thank you for supporting NeroFlix!",
-  "image": "",
+  "title": "NeroFlix Announcement!",
+  "message": "Patch update for v1.4.3 Need to update to fix Issues In app update will be available once uploaded",
+  "image": "https://raw.githubusercontent.com/Sasuw30/PureNeroflixv2/refs/heads/main/file_00000000da047208beadc3e90197b2ba.png",
   "show": true
 }
